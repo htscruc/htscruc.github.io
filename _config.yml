@@ -3,7 +3,7 @@ title: arXiv preprints
 SEOTitle: 
 header-img: img/pic.jpg
 email: 
-description: "comments on recent arXiv preprints"
+description: 
 keyword: "arXiv"
 url: "http://htscruc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,19 +11,15 @@ github_repo: "https://github.com/htscruc/htscruc.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "new preprints"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: 
+sidebar-avatar:    img/pic1.jpg   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
 github_username:    htscruc
-#facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 
